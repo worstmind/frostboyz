@@ -13,7 +13,7 @@
 
 <div>
   <a href="https://github.com/frostboyz"
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushscriptz&layout=compact&langs_count=7&theme=dracula%22/%3E">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostboyz&layout=compact&langs_count=7&theme=dracula%22/%3E">
 </div>
 <div style="display: inline_block"><br>
 
