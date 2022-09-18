@@ -22,7 +22,8 @@
 </div>
 
 <a href="https://github.com/frostboyz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=worstbaby&theme=midnight-purple&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frostboyz&theme=midnight-purple&show_icons=true" />
 </a>
 
   ##
+
